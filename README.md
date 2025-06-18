@@ -6,4 +6,5 @@
   <li><b>Coding foundations:</b> Basic information such as the use of variables, data types, basic functions, etc., along with a brief introduction to how SQL databases work. </li>
   <li><b>Front-end for beginners:</b> An introucction to HTML, CSS, JavaScript and basic knowledge about Angular.</li>
   <li><b>Responsive Web-Design:</b> Basics in HTML and CSS to make different types of responsive websites.</li>
+  <li><b>Python Developer:</b> Introduction to python and object oriented programming.</li>
 </ul>
